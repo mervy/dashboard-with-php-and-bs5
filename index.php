@@ -1,11 +1,10 @@
 <?php require_once "partials/header.php"; ?>
 
-
 <?php require_once "partials/menu.php"; ?>
 
 <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
     <header class="py-4">
-        <h1 class="h2 border-bottom">Dashboard</h1>
+        <h1 class="h2 border-bottom mt-5">Dashboard</h1>
     </header>
     <!-- hero -->
     <div class="container-fluid mb-5">
